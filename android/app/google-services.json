@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871908348230",
+    "project_id": "sake-83f09",
+    "storage_bucket": "sake-83f09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871908348230:android:9e25e805141a3bbd525547",
+        "android_client_info": {
+          "package_name": "com.example.sake"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrF2XBb45l-gb-N44nr8uHAYEHyJGH3iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

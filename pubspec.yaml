@@ -1,0 +1,41 @@
+name: sake
+description: 'A new Flutter project.'
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.25.4
+  hooks_riverpod: ^2.4.0
+  flutter_hooks: ^0.20.4
+  go_router: ^13.0.1
+  freezed_annotation: ^2.4.1
+  json_annotation: ^4.8.1
+  flutter_screenutil: ^5.7.0
+  firebase_auth: ^4.16.0
+  cloud_firestore: ^4.14.0
+  form_builder_validators: ^9.1.0
+  flutter_form_builder: ^9.2.1
+  flutter_rating_bar: ^4.0.1
+  flutter_image_compress: ^2.1.0
+  firebase_storage: ^11.6.9
+  image_picker: ^1.0.7
+  intl: ^0.18.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+  build_runner: ^2.4.7
+  freezed: ^2.4.6
+  json_serializable: ^6.7.1
+
+flutter:
+  uses-material-design: true
